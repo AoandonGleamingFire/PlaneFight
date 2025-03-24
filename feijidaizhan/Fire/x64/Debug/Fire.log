@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\feijidaizhan\Fire\main.cpp(24,7): warning C4101: “r”: 未引用的局部变量
+E:\feijidaizhan\Fire\main.cpp(49,26): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  Fire.vcxproj -> E:\feijidaizhan\x64\Debug\Fire.exe
